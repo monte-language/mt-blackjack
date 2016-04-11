@@ -1,0 +1,6 @@
+{
+    "name": "blackjack",
+    "paths": ["."],
+    "entrypoint": "blackjack",
+    "dependencies": {}
+}
